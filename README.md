@@ -2,6 +2,6 @@
 
 ![logo](logo.jpeg)
 
-![pres](pres.pptx)
+[pres](pres.pptx)
 
 
